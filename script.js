@@ -4,13 +4,13 @@
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAzQOWS9D_w9blW9Fs5WL-JyBOIL3oLRaY",
-  authDomain: "textchatbot-b4252.firebaseapp.com",
-  databaseURL: "https://textchatbot-b4252-default-rtdb.firebaseio.com",
-  projectId: "textchatbot-b4252",
-  storageBucket: "textchatbot-b4252.appspot.com",
-  messagingSenderId: "853405439058",
-  appId: "1:853405439058:web:258e081ed7effaa46b7b8b"
+  apiKey: "value1",
+  authDomain: "value2",
+  databaseURL: "value3",
+  projectId: "value4",
+  storageBucket: "value5",
+  messagingSenderId: "value6",
+  appId: "value7"
 };
 
 firebase.initializeApp(firebaseConfig);
